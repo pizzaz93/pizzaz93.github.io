@@ -1,7 +1,6 @@
 ## Find me on [LinkedIn](https//:www.linkedin.com/in/peretzcohen)
 
 # My Repos
-<br>
 <br> [Free Code Camp](https://pizzaz93.github.io/Free-Code-Camp-Projects/) 
 <br> [Kaggle Learn](https://pizzaz93.github.io/Kaggle_Learn/)
 <br> [CodeSignal](https://pizzaz93.github.io/CodeSignal/)
